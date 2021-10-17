@@ -1,6 +1,6 @@
 # kali linux touchpad not working problem solved
 
-most of the cases that you don't drivers for the touchpad on your laptop
+most of the cases that you don't have drivers for the touchpad on your laptop
 
 this how i solved my problem:
 
