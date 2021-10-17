@@ -4,9 +4,9 @@ most of the cases that you don't drivers for the touchpad on your laptop
 
 this how i solved my problem:
 
+```
 - apt-cache search touchpad
 
-```
 libevdev-tools - wrapper library for evdev devices - tools
 libspandsp-dev - Telephony signal processing library - development headers
 libspandsp-doc - Documentation for the spandsp signal processing library
@@ -21,12 +21,12 @@ xserver-xorg-input-multitouch - Multitouch X input driver
 xserver-xorg-input-synaptics - Synaptics TouchPad driver for X.Org server
 xserver-xorg-input-synaptics-dev - Synaptics TouchPad driver for X.Org server (development headers)
 ```
-
+```
 - apt install xserver-xorg-input-libinput  xserver-xorg-input-multitouch xserver-xorg-input-synaptics xserver-xorg-input-synaptics-dev
 
 - apt install xserver-xorg-input-mtrack
 
 - reboot
-
+```
 
 
